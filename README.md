@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kayz
-- 👀 I’m interested in: Back-end development
+- 👋 Hi, I’m @Sean Kayz
+- 👀 I’m interested in: Full-Stack development
 - 🌱 I’m currently learning: Python, Flask, MYSQL, Html & Css
 - 💞️ I’m looking to collaborate on: Python-related projects such as: User Authentication systems, API Development, To-Do Applications etc..
 - 📫 How to reach me: 
