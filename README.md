@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sean Kayz
-- 👀 I’m interested in: Full-Stack development
-- 🌱 I’m currently learning: Python, Flask, MYSQL, Html & Css
+- 👋 Hi, I’m @Alexander
+- 👀 I’m interested in: Cloud Engineering/Back-End Development
+- 🌱 I’m currently learning: Python, Flask, MYSQL, HTML & CSS
 - 💞️ I’m looking to collaborate on: Python-related projects such as: User Authentication systems, API Development, To-Do Applications etc..
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
