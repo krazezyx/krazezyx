@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexander Bale
-- 👀 I’m interested in: Cloud Engineering/DevOps/Back-End Development
+- 👀 I’m interested in: Cybersecurity/DevOps/Back-End Development
 - 🌱 I’m currently learning: Python, Flask, SQL, HTML & CSS
 - 💞️ I’m looking to collaborate on: Python-related projects such as: User Authentication systems, API Development, Web applications etc...
 - 📫 How to reach me: Discord: Karazyx
